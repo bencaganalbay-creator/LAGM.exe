@@ -3,11 +3,11 @@
 LAGM.exe is a harmless lag machine program created by **BIOS_boi**.  
 It is designed purely for fun and experimental purposes.  
 
-⚠️ **Official Notice**  
+**Official Notice**  
 This repository is the **only official source** of LAGM.exe.  
 Any other distribution or modification under the same name is **not authorized**.  
 
-🔹 **Name Note**  
+**Name Note**  
 If the name **BIOS_boi** ever changes, the original and true author is **bencaganalbay-creator**.  
 
 ---
